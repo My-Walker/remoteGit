@@ -1,1 +1,1 @@
-git@github.com:My-Walker/remoteGit.git
+adder: git@github.com:My-Walker/remoteGit.git
